@@ -1,0 +1,11 @@
+{
+  "name": "danger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ckybonist/danger.git",
+  "author": "ckybonist <ckybonist@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "danger": "^10.5.0"
+  }
+}
